@@ -5,3 +5,6 @@ the location of new repo.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an area where files are staged to be commited. It allows you to see what you are doing and 
 gives you a chance to change your mind.
+
+How can you use the staging area to make sure you have one commit per logical change?
+To compare it and what is in your workign directory, and validate what you have selected before you commit.
