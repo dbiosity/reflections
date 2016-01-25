@@ -8,3 +8,9 @@ gives you a chance to change your mind.
 
 How can you use the staging area to make sure you have one commit per logical change?
 To compare it and what is in your workign directory, and validate what you have selected before you commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Makign any changes where you dont want to mess up master branch.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help by allowing you to see the branches and commits that are available from each, and where they diverged from common commit.
