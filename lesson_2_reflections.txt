@@ -14,3 +14,10 @@ Makign any changes where you dont want to mess up master branch.
 
 How do the diagrams help you visualize the branch structure?
 Diagrams help by allowing you to see the branches and commits that are available from each, and where they diverged from common commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Creates on branch with the changes from both, and the commit histroy from both branches. Because it makes one branch from two.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Auto merging is good and easy when ther isnt conflict. However, if conflict is there, it is good to manually resolve since 
+Git is a computer program, and someone wiht more esxpertise knowledge of content might need to make best chouce to resolve merge conflicts.
