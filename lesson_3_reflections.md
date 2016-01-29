@@ -9,3 +9,7 @@ This would help you have better control and not force you to lose updates you ma
 **Describe the differences between forks, clones, and branches. When would you use one instead of another?**
 
 Forks copy a repository to your Github account, cloning copies it locally, and branching makes divergent paths in same repository.
+
+**What is the benefit of having a copy of the last known state of the remote stored locally?**
+
+You can keep some knowledge of remote branch up to date locsally. could use it offline if needed.
