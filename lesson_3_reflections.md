@@ -17,3 +17,7 @@ You can keep some knowledge of remote branch up to date locsally. could use it o
 **How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
 
 You would haev to manually send things. could also use online code collaboration environmnts like cloud9 ide. 
+
+**When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?**
+
+I would use separate branches when working on any experimental or fixes of my own repositoy, or also when contributing to a repostiory that is being worked on by multiple collaborators.
