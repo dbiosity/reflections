@@ -13,3 +13,7 @@ Forks copy a repository to your Github account, cloning copies it locally, and b
 **What is the benefit of having a copy of the last known state of the remote stored locally?**
 
 You can keep some knowledge of remote branch up to date locsally. could use it offline if needed.
+
+**How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
+
+You would haev to manually send things. could also use online code collaboration environmnts like cloud9 ide. 
